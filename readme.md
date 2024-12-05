@@ -46,6 +46,3 @@ The PowerShell script (`create_structure.ps1`) creates the same structure as the
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
