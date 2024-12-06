@@ -32,5 +32,6 @@
 ## Full script
 
 - [here](create_structure.sh)
+- [this is for creating vite project](create-vite.sh)
 
 By following these steps, you ensure that the script is available system-wide and can be run from any directory.
